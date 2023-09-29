@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RomanToIntegaer {
+public class LC_13_RomanToIntegaer {
     // Input - String, Output - int
     public static void main(String[] args) {
 

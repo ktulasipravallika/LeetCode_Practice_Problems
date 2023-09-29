@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CommonPrefix {
+public class LC_14_CommonPrefix {
 
     public static void main(String[] args) {
 

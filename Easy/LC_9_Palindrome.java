@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class Solution {
+class LC_9_Palindrome {
 
     public static void main(String[] args) {
 
